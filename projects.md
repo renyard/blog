@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## [Validity](https://github.com/renyard/validity)
+## [Validity](http://validity.org.uk)
 
 Validity is a popular Google Chrome extension, which has been available since the Chrome Web Store's launch in 2009. It is used to validate HTML pages against the W3C validator within the browser and writes any resulting errors or warnings to Chrome's console.
 
