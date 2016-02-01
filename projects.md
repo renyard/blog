@@ -6,9 +6,11 @@ permalink: /projects/
 
 ## [Validity](http://validity.org.uk)
 
-Validity is a popular Google Chrome extension, which has been available since the Chrome Web Store's launch in 2009. It is used to validate HTML pages against the W3C validator within the browser and writes any resulting errors or warnings to Chrome's console.
+Validity is a popular Google Chrome extension (with over 50,000 users), which has been available since the Chrome Web Store's launch in 2009. It is used to validate HTML pages against the W3C validator within the browser and writes any resulting errors or warnings to Chrome's console.
 
-Validity currently has over 50,000 users and version 3.0 was released in April 2015.
+## [Vim Ranger Explorer](https://github.com/renyard/vim-rangerexplorer)
+
+A [Vim](http://www.vim.org) plugin to enable use of the [ranger](http://ranger.nongnu.org/) file manager as a file chooser.
 
 ## [Vim git-flow-format](https://github.com/renyard/vim-git-flow-format)
 
