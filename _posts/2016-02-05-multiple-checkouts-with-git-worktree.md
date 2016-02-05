@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Multiple Git Checkouts"
+title:  "Multiple Checkouts With Git Worktree"
 author: "Ian Renyard"
-date: 2016-02-04
+date: 2016-02-05
 categories: git
 ---
 
@@ -50,7 +50,7 @@ $ git checkout develop
 $ git merge bugfix
 ~~~
 
-The worktree can be removed and the branch deleted:
+The worktree can then be removed and the branch deleted:
 
 ~~~ shell
 $ git branch -d bugfix
